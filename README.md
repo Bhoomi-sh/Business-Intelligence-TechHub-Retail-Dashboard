@@ -1,4 +1,4 @@
-# TechHub Retail – Business Intelligence Dashboard (Week 4)
+# TechHub Retail – Business Intelligence Dashboard 
 
 ## 📌 Project Overview
 This project delivers an **executive-level Business Intelligence dashboard** for *TechHub Retail*, a UK-based online electronics retailer. The dashboard was developed in **Tableau Public** to support senior management with data-driven insights for **strategic planning in 2025**.
